@@ -1,4 +1,4 @@
-# keylistener
+# Keyboard-Listener
 
 A cross-platform keyboard listener library written in Go.
 
@@ -36,8 +36,8 @@ You can easily open the keyboard listener, read key events, and close it properl
 Clone this repository and navigate into it:
 
 ```bash
-git clone https://github.com/yourusername/keylistener.git
-cd keylistener
+git clone https://github.com/trapp1stein/Keyboard-Listener.git
+cd Keyboard-Listener
 
 ```
 
@@ -72,7 +72,7 @@ package main
 
 import (
 	"fmt"
-	"keylistener/keyboard"
+	"Keyboard-Listener/keyboard"
 )
 
 func main() {
@@ -99,5 +99,5 @@ func main() {
 Contributions, issues, and feature requests are welcome!
 Feel free to open a pull request or issue.
 
-## Thank you for using keylistener!
+## Thank you for using Keyboard-Listener!
 Happy coding! 🚀
